@@ -1,4 +1,4 @@
-# Code-Challenge-1
+Code-Challenge-1
 Challenges Overview
 1 chaiCalculator
 Calculates the exact ingredients needed to prepare a specified number of cups of Kenyan Chai Bora.
